@@ -41,8 +41,8 @@ It uses the HTSeq Python module to perform this calculation.
 
 #Differential Gene Expression
 DESeq2 Analysis was performed using R-Studio packages. DESeq2 is a software package used for analyzing count data, such as RNA sequencing data. 
-It normalizes the data, creates visualizations, and identifies differences between groups. 
-DESeq2 uses a statistical method called empirical Bayes to estimate certain parameters and calculate posterior estimates, which are used to identify significant differences.
+*It normalizes the data, creates visualizations, and identifies differences between groups. 
+*DESeq2 uses a statistical method called empirical Bayes to estimate certain parameters and calculate posterior estimates, which are used to identify significant differences.
 -DESeq2
 -BiocManager
 -Tidyverse
